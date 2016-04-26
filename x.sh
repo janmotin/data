@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "x" > x.data
-cat x.data
+echo "x" > x-out/x.data
 ls *
